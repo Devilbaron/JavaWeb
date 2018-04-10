@@ -4,4 +4,4 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt"  prefix="fmt"%>
 
 
-<%@include file="WEB-INF/views/login.jsp"%>
+<%@include file="WEB-INF/views/login2.jsp"%>
