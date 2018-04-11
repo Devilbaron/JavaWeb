@@ -11,6 +11,7 @@
 <html>
 <head>
     <title>login</title>
+
 </head>
 <body style="background-color: skyblue;">
     <!-- <p1>test!</p1> -->
@@ -19,7 +20,7 @@
     <form id="loginForm" modelAttribute="user" action="user/login" method="post">
         <table align="center">
         <tr>
-            <td>用户名：</td><td><input type=text name=username /></td>
+            <td>用户名：</td><td><input type=text name=id /></td>
         </tr>
         <tr>
             <td>密码：</td><td><input type=password name=password /></td>

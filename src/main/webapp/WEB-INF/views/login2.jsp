@@ -221,7 +221,7 @@
     <div class="container">
         <h1>Welcome</h1>
         <form id="loginForm" modelAttribute="user" action="user/login" method="post">
-            <input type="text" placeholder="user login" name="username"/>
+            <input type="text" placeholder="user login" name="id"/>
             <input type="password" placeholder="password" name="password" />
             <input type="submit" value="Login"/>
         </form>

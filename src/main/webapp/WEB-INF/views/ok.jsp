@@ -29,6 +29,6 @@
     <title>µÇÂ½³É¹¦</title>
 </head>
 <body>
-<h1>×ð¾´µÄ${user},»¶Ó­Äú</h1
+<h1>×ð¾´µÄ${user.username},»¶Ó­Äú</h1
 </body>
 </html>
